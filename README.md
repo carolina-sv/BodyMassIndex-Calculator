@@ -79,7 +79,7 @@ Contributions are welcome! Follow the steps below:
 Fork the repository. Create a branch for your feature: git checkout -b my-feature. Submit your changes: git push origin my-feature. Open a Pull Request.
 
 ## 🛡️ Contact
-For questions or suggestions, please contact us: Developer Name
+For questions or suggestions, please contact us: Carolina Silva Viana.
 
 📧 Email: carollinasilva057@gmail.com
 
